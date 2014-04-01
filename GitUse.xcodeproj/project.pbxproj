@@ -21,6 +21,7 @@
 		C3AE691518EAC152002ED4AB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3AE68F718EAC151002ED4AB /* UIKit.framework */; };
 		C3AE691D18EAC152002ED4AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C3AE691B18EAC152002ED4AB /* InfoPlist.strings */; };
 		C3AE691F18EAC152002ED4AB /* GitUseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C3AE691E18EAC152002ED4AB /* GitUseTests.m */; };
+		C3AE692A18EAC5E7002ED4AB /* H-NewFeature.m in Sources */ = {isa = PBXBuildFile; fileRef = C3AE692918EAC5E7002ED4AB /* H-NewFeature.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		C3AE691A18EAC152002ED4AB /* GitUseTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitUseTests-Info.plist"; sourceTree = "<group>"; };
 		C3AE691C18EAC152002ED4AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C3AE691E18EAC152002ED4AB /* GitUseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUseTests.m; sourceTree = "<group>"; };
+		C3AE692818EAC5E7002ED4AB /* H-NewFeature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "H-NewFeature.h"; sourceTree = "<group>"; };
+		C3AE692918EAC5E7002ED4AB /* H-NewFeature.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "H-NewFeature.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				C3AE690918EAC151002ED4AB /* H_ViewController.m */,
 				C3AE690B18EAC151002ED4AB /* Images.xcassets */,
 				C3AE68FA18EAC151002ED4AB /* Supporting Files */,
+				C3AE692818EAC5E7002ED4AB /* H-NewFeature.h */,
+				C3AE692918EAC5E7002ED4AB /* H-NewFeature.m */,
 			);
 			path = GitUse;
 			sourceTree = "<group>";
@@ -250,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3AE692A18EAC5E7002ED4AB /* H-NewFeature.m in Sources */,
 				C3AE690018EAC151002ED4AB /* main.m in Sources */,
 				C3AE690418EAC151002ED4AB /* H_AppDelegate.m in Sources */,
 				C3AE690A18EAC151002ED4AB /* H_ViewController.m in Sources */,
