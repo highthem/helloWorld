@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E85DE5C6-363D-422D-B627-28B773E7C67C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GitUse</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D14D82C-711C-4D08-AD03-D1E9AB7CD752</key>
+		<string>ssh-rsa%20AAAAB3NzaC1yc2EAAAADAQABAAABAQDLgvMhYavEhsIT1XdmRVtJY+GStrZhXj67ouEJLsht/sM3WEJpDqV4qJmTBeaRQf+/9zjfOrB2ZYiQ3nU7T1gJlBLsKTPK5mukDZCX6D5PaQXVN5oe+Z6Oaz3X52fsulXCFIrUTrsLnXzg9WO7Bs/FjS7TxYED7jreyan5xukyYYC1FPqtRFkYcSLdMiGYIIItp/d4PzK7DxA2x8HArvcvJvVSDcwVY5Pb05NDdr2O0R0MGH3HDxOhKZV2ZQZe8ROZUT9J35qO7Y6Q9Wec0DKgABBqVJ9TXhkrAHwWCs9jNghWuKPFGOJ5y7Gy//DHiB2JliLQ3MJ7zybWs7tUZzEf%20highthem@icloud.com%0Assh-rsa%20AAAAB3NzaC1yc2EAAAADAQABAAABAQDLgvMhYavEhsIT1XdmRVtJY+GStrZhXj67ouEJLsht/sM3WEJpDqV4qJmTBeaRQf+/9zjfOrB2ZYiQ3nU7T1gJlBLsKTPK5mukDZCX6D5PaQXVN5oe+Z6Oaz3X52fsulXCFIrUTrsLnXzg9WO7Bs/FjS7TxYED7jreyan5xukyYYC1FPqtRFkYcSLdMiGYIIItp/d4PzK7DxA2x8HArvcvJvVSDcwVY5Pb05NDdr2O0R0MGH3HDxOhKZV2ZQZe8ROZUT9J35qO7Y6Q9Wec0DKgABBqVJ9TXhkrAHwWCs9jNghWuKPFGOJ5y7Gy//DHiB2JliLQ3MJ7zybWs7tUZzEf%20highthem@icloud.com%0Agit@github.com:highthem/helloWorld.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitUse.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D14D82C-711C-4D08-AD03-D1E9AB7CD752</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh-rsa%20AAAAB3NzaC1yc2EAAAADAQABAAABAQDLgvMhYavEhsIT1XdmRVtJY+GStrZhXj67ouEJLsht/sM3WEJpDqV4qJmTBeaRQf+/9zjfOrB2ZYiQ3nU7T1gJlBLsKTPK5mukDZCX6D5PaQXVN5oe+Z6Oaz3X52fsulXCFIrUTrsLnXzg9WO7Bs/FjS7TxYED7jreyan5xukyYYC1FPqtRFkYcSLdMiGYIIItp/d4PzK7DxA2x8HArvcvJvVSDcwVY5Pb05NDdr2O0R0MGH3HDxOhKZV2ZQZe8ROZUT9J35qO7Y6Q9Wec0DKgABBqVJ9TXhkrAHwWCs9jNghWuKPFGOJ5y7Gy//DHiB2JliLQ3MJ7zybWs7tUZzEf%20highthem@icloud.com%0Assh-rsa%20AAAAB3NzaC1yc2EAAAADAQABAAABAQDLgvMhYavEhsIT1XdmRVtJY+GStrZhXj67ouEJLsht/sM3WEJpDqV4qJmTBeaRQf+/9zjfOrB2ZYiQ3nU7T1gJlBLsKTPK5mukDZCX6D5PaQXVN5oe+Z6Oaz3X52fsulXCFIrUTrsLnXzg9WO7Bs/FjS7TxYED7jreyan5xukyYYC1FPqtRFkYcSLdMiGYIIItp/d4PzK7DxA2x8HArvcvJvVSDcwVY5Pb05NDdr2O0R0MGH3HDxOhKZV2ZQZe8ROZUT9J35qO7Y6Q9Wec0DKgABBqVJ9TXhkrAHwWCs9jNghWuKPFGOJ5y7Gy//DHiB2JliLQ3MJ7zybWs7tUZzEf%20highthem@icloud.com%0Agit@github.com:highthem/helloWorld.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D14D82C-711C-4D08-AD03-D1E9AB7CD752</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D14D82C-711C-4D08-AD03-D1E9AB7CD752</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitUse</string>
+		</dict>
+	</array>
+</dict>
+</plist>

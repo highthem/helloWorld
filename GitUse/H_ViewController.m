@@ -31,6 +31,8 @@
 #pragma mark GUI
 - (IBAction)hitMe:(id)sender{
     NSLog(@"oww, that hurts!");
-    NSLog(@"test me");
+    NSLog(@"test me --- new test");
+    
+    NSLog(@"hate that git test");
 }
 @end
